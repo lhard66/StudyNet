@@ -1,0 +1,10 @@
+/StudyNet/bin/*
+/StudyNet/obj/*
+/StudyNet.suo
+/BLL/bin/*
+/BLL/obj/*
+/DAL/bin/*
+/DAL/obj/*
+/MODEL/bin/*
+/MODEL/obj/*
+/packages/*
